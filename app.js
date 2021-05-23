@@ -1,1 +1,1 @@
-console.log("Hi JS!");
+'use strict';
